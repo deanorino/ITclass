@@ -1,0 +1,24 @@
+    1  git clone https://github.com/deanorino/ITclass.git
+    2  cd ITclass
+    3  git status
+    4  git add class.txt
+    5  git commit
+    6  git commit -m 
+    7  git commit -m "created class.txt"
+    8  git push 
+    9  history
+   10  history > commands.txt
+   11  git add animals .txt
+   12  git add animals.txt
+   13  git push
+   14  git push animals.txt
+   15  git commit -m "animals.txt"
+   16  git push
+   17  git add Lied.txt
+   18  git commit -m "Lied.txt"
+   19  git push
+   20  git add -all
+   21  git add --all
+   22  git commit -m "school.txt"
+   23  git push 
+   24  history > commands.txt
